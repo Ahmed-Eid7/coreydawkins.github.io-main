@@ -14951,7 +14951,7 @@ ul.nav.tab-style--1 li a::before {
 }
 ul.nav.tab-style--1 li a.active {
   background: transparent;
-  color: #f9004d;
+  color: #f9004d !important;
 }
 ul.nav.tab-style--1 {
   border-color: #f00;
