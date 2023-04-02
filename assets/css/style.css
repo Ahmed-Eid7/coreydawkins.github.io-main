@@ -17732,9 +17732,9 @@ a.purchase-btn:hover {
   color: rgba(198, 201, 216, 0.75);
 }
 
-.active-dark-mode ul.nav.tab-style--1 li a::before {
+/* .active-dark-mode ul.nav.tab-style--1 li a::before {
   background: #f00;
-}
+} */
 
 .active-dark-mode .pv-tab-button {
   background: rgba(255, 255, 255, 0.2);
