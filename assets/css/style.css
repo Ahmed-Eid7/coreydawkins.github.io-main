@@ -13394,7 +13394,7 @@ a.item-portfolio-static {
 }
 
 @media only screen and (max-width: 767px) {
-  .slide {
+  .slide.personal-portfolio-slider {
     height: 100vh;
   }
 
